@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CAMPI>
+  <S value="33.923" description="salinity of sample         " />
+  <PT value="0.0" description="micromol/kg total phosphate" />
+  <SiT value="0.0" description="micromol/kg total silicate " />
+  <T value="24.25" description="oC temperature of sample when titrated" />
+  <W0 value="140.32" description="g  weight of sample titrated" />
+  <C value="0.10046" description="    mol/kg concentration of acid titrant" />
+  <DACID value="1.02393" description="     g/cm3 density of acid titrant" />
+</CAMPI>
